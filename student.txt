@@ -1,0 +1,4 @@
+Student name: Amrish Schaap
+Student number: 652193
+Student class: IT1A
+URL student GitHub repository: https://github.com/michaInholland/Webmarkup2021  
